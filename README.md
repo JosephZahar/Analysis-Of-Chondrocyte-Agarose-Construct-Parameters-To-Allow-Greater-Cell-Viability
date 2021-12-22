@@ -14,9 +14,20 @@ Chondrocytes specimens were isolated from a bovine metacarpal-phalangeal joint a
 ![Stress - Strain](https://user-images.githubusercontent.com/70657426/147086309-cc255169-c0d7-4fd1-8466-eb8b1dac954e.png)
 </p>
 
-<p align="justify">
+**Stress-time graphs for the chondrocyte-agarose constructs. Each sample was tested five times for each treatment. Stress relaxation is observed after strain is held at 20%.**
+
+
+<p align="center">
+
+  ![Stress - Time](https://user-images.githubusercontent.com/70657426/147089251-56116f0e-69c3-4e01-b471-bbf450f0b461.png)
+
+</p>
+
+  
 **The 15% Tangent Modulus was taken for each specimen.** 
-The Mean and Standard Deviation were then calculated and were graphically presented using bar charts. A statistical comparison between the Mean Tangent Modulus of each construct was performed using a Boxplot
+
+<p align="justify">
+ The Mean and Standard Deviation were then calculated and were graphically presented using bar charts. A statistical comparison between the Mean Tangent Modulus of each construct was performed using a Boxplot
 </p>
 
 <p align="center">
